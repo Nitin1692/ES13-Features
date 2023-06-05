@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+#a1{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
